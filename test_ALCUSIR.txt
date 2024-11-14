@@ -4,3 +4,4 @@
 RG=La programación orientada a objetos (POO) es un paradigma de programación que utiliza "objetos" para representar datos y métodos. Sus principales características son la encapsulación, la herencia, el polimorfismo y la abstracción.
 
 2. ¿Cuáles son las diferencias entre una clase y un objeto en POO?
+Una clase es un molde o plantilla que define las propiedades y comportamientos (métodos) comunes de un conjunto de objetos. Un objeto es una instancia de una clase, que contiene datos específicos y puede ejecutar los métodos definidos en su clase.
