@@ -1,4 +1,4 @@
-----------CUSTIONARIO PARA GABRIELA---------
+----------CUESTIONARIO PARA GABRIELA---------
 
 1. ¿Qué es la programación orientada a objetos y cuáles son sus principales características?
 RG=La programación orientada a objetos (POO) es un paradigma de programación que utiliza "objetos" para representar datos y métodos. Sus principales características son la encapsulación, la herencia, el polimorfismo y la abstracción.
@@ -23,3 +23,5 @@ Un método es una función definida dentro de una clase que describe un comporta
 
 8. Explica el concepto de sobrecarga de métodos y su utilidad en POO.
 La sobrecarga de métodos permite definir múltiples métodos con el mismo nombre pero diferentes parámetros dentro de la misma clase. Es útil para realizar operaciones similares con diferentes tipos o cantidades de datos.
+
+9. ¿Qué son las interfaces en POO y cómo se utilizan en el diseño de software?
