@@ -17,3 +17,5 @@ El encapsulamiento es el principio de ocultar los detalles internos de un objeto
 
 6. ¿Cómo se diferencia la abstracción de la encapsulación en POO?
 La abstracción se centra en ocultar los detalles complejos y mostrar solo las funcionalidades esenciales, mientras que la encapsulación se refiere a ocultar el estado interno de un objeto y protegerlo del acceso externo.
+
+7. ¿Qué es un método en el contexto de POO y cómo se relaciona con una clase?
