@@ -7,3 +7,4 @@ RG=La programación orientada a objetos (POO) es un paradigma de programación q
 Una clase es un molde o plantilla que define las propiedades y comportamientos (métodos) comunes de un conjunto de objetos. Un objeto es una instancia de una clase, que contiene datos específicos y puede ejecutar los métodos definidos en su clase.
 
 3. Explica qué es la herencia en POO y proporciona un ejemplo de cómo se utiliza.
+La herencia es un mecanismo que permite crear una nueva clase basada en una clase existente. La nueva clase (subclase) hereda atributos y métodos de la clase existente (superclase). Por ejemplo, si tienes una clase Animal, puedes crear una subclase Perro que herede las propiedades de Animal y añada comportamientos específicos de los perros.
