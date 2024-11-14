@@ -20,3 +20,5 @@ La abstracción se centra en ocultar los detalles complejos y mostrar solo las f
 
 7. ¿Qué es un método en el contexto de POO y cómo se relaciona con una clase?
 Un método es una función definida dentro de una clase que describe un comportamiento que los objetos de esa clase pueden realizar. Los métodos manipulan los datos de los objetos y definen interacciones específicas.
+
+8. Explica el concepto de sobrecarga de métodos y su utilidad en POO.
