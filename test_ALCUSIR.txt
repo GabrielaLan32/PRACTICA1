@@ -14,3 +14,5 @@ El polimorfismo es la capacidad de una función o método para comportarse de di
 
 5. Describe el concepto de encapsulamiento y su importancia en POO.
 El encapsulamiento es el principio de ocultar los detalles internos de un objeto y exponer solo lo necesario a través de una interfaz pública. Esto mejora la modularidad y protege los datos de cambios indebidos.
+
+6. ¿Cómo se diferencia la abstracción de la encapsulación en POO?
