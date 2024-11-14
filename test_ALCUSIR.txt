@@ -22,3 +22,4 @@ La abstracción se centra en ocultar los detalles complejos y mostrar solo las f
 Un método es una función definida dentro de una clase que describe un comportamiento que los objetos de esa clase pueden realizar. Los métodos manipulan los datos de los objetos y definen interacciones específicas.
 
 8. Explica el concepto de sobrecarga de métodos y su utilidad en POO.
+La sobrecarga de métodos permite definir múltiples métodos con el mismo nombre pero diferentes parámetros dentro de la misma clase. Es útil para realizar operaciones similares con diferentes tipos o cantidades de datos.
