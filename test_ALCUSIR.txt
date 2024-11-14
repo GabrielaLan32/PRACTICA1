@@ -25,3 +25,4 @@ Un método es una función definida dentro de una clase que describe un comporta
 La sobrecarga de métodos permite definir múltiples métodos con el mismo nombre pero diferentes parámetros dentro de la misma clase. Es útil para realizar operaciones similares con diferentes tipos o cantidades de datos.
 
 9. ¿Qué son las interfaces en POO y cómo se utilizan en el diseño de software?
+Una interfaz es un contrato que define un conjunto de métodos que una clase debe implementar, sin proporcionar la implementación de esos métodos. Se utiliza para asegurar que diferentes clases compartan un comportamiento común.
