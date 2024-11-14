@@ -13,3 +13,4 @@ La herencia es un mecanismo que permite crear una nueva clase basada en una clas
 El polimorfismo es la capacidad de una función o método para comportarse de diferentes maneras según el objeto que lo invoque. Se implementa mediante la sobrecarga de métodos (mismo nombre, diferentes parámetros) o la sobrescritura de métodos (una subclase redefine un método de su superclase).
 
 5. Describe el concepto de encapsulamiento y su importancia en POO.
+El encapsulamiento es el principio de ocultar los detalles internos de un objeto y exponer solo lo necesario a través de una interfaz pública. Esto mejora la modularidad y protege los datos de cambios indebidos.
