@@ -1,3 +1,4 @@
 ----------CUSTIONARIO PARA GABRIELA---------
 
 1. ¿Qué es la programación orientada a objetos y cuáles son sus principales características?
+RG=La programación orientada a objetos (POO) es un paradigma de programación que utiliza "objetos" para representar datos y métodos. Sus principales características son la encapsulación, la herencia, el polimorfismo y la abstracción.
