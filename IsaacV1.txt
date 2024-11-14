@@ -3,5 +3,6 @@ Preguntas POO
 
 ""
 ¿Qué significa POO?
-
+La Programación Orientada a Objetos (POO) es un paradigma de programación que organiza el software en torno a objetos en lugar de funciones y lógica. Los objetos son instancias de clases, que pueden contener tanto datos (en forma de campos o atributos) como métodos (funciones que operan sobre esos datos).
+¿Qué es una clase en POO?
 
