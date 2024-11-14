@@ -10,3 +10,4 @@ Una clase es un molde o plantilla que define las propiedades y comportamientos (
 La herencia es un mecanismo que permite crear una nueva clase basada en una clase existente. La nueva clase (subclase) hereda atributos y métodos de la clase existente (superclase). Por ejemplo, si tienes una clase Animal, puedes crear una subclase Perro que herede las propiedades de Animal y añada comportamientos específicos de los perros.
 
 4. ¿Qué es el polimorfismo y cómo se implementa en la programación orientada a objetos?
+El polimorfismo es la capacidad de una función o método para comportarse de diferentes maneras según el objeto que lo invoque. Se implementa mediante la sobrecarga de métodos (mismo nombre, diferentes parámetros) o la sobrescritura de métodos (una subclase redefine un método de su superclase).
